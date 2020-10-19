@@ -1,4 +1,4 @@
-<div align ="center"><img src="assets/images/icon.svg"></div>
+<div align ="center"><img src="assets/images/profile.svg"></div>
 <h1 align="center">Hi! 👋 Thanks for visiting 🤗 </h1>
 
 
@@ -18,10 +18,10 @@
 
 <hr />
 
-- 👨‍💻 Always searching for new problems to work on.
-- 🪑 I’m also currently working as a Python Developer and Content Editor at <a href="https://www.programiz.com/" target="_blank">Programiz</a>.
+- 👨‍💻 Always searching for new problems to work on
+- 🪑 I’m also currently working as a Python Developer and Content Editor at <a href="https://www.programiz.com/" target="_blank">Programiz</a>
 - ⚽️ Big fan of Brazilian Football, to be specific - Neymar and Ronaldinho
-- 🌏 Find more about me <a href="https://rhitabrat.github.io/"> rhitabrat.github.io</a>
+- 🌏 Find more about me at <a href="https://rhitabrat.github.io/"> rhitabrat.github.io</a>
 
 <hr/>
 
