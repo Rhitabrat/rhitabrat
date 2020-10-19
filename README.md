@@ -1,6 +1,3 @@
-<!-- Header -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
 <!-- Content -->
 <i class="fa fa-linkedin-square"></i>
 
@@ -11,14 +8,14 @@
 <h3 align="center">Find me on</h3>
 <p align="center">
     <a href="https://linkedin.com/in/rhitabrat/" target="blank">
-        <i class="fa fa-linkedin"></i>
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="15" />
     </a>&nbsp;
     <a href="https://instagram.com/rhitik_pokharel/" target="blank">
-        <i class="fa fa-instagram"></i>
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"   width="15" />
     </a>&nbsp;
     </a>
     <a href="https://twitter.com/Rhitabrat">
-        <i class="fa fa-twitter"></i>
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"   width="15" />
     </a>
 </p>
 
