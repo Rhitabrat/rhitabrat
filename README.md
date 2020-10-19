@@ -19,16 +19,16 @@
 <hr />
 
 - 👨‍💻 Always searching for new problems to work on
-- 🪑 I’m also currently working as a Python Developer and Content Editor at <a href="https://www.programiz.com/" target="_blank">Programiz</a>
+- 🪑 I’m also currently working as a Python Developer and Content Editor at <a style="color:#19B38C" href="https://www.programiz.com/" target="_blank">Programiz</a>
 - ⚽️ Big fan of Brazilian Football, to be specific - Neymar and Ronaldinho
-- 🌏 Find more about me at <a href="https://rhitabrat.github.io/"> rhitabrat.github.io</a>
+- 🌏 Find more about me at <a style="color:#19B38C" href="https://rhitabrat.github.io/"> rhitabrat.github.io</a>
 
 <hr/>
 
 <h3>Some of my works/blogs</h3>
 <ul>
-<li><a href="https://github.com/Rhitabrat/Youtube-Comments-Categorization">Classification of YouTube Comments</a></li>
-<li><a href="https://rhitabrat.github.io/post2.html">Availability of Data in Nepal</a></li>
+<li><a style="color:#19B38C" href="https://github.com/Rhitabrat/Youtube-Comments-Categorization">Classification of YouTube Comments</a></li>
+<li><a style="color:#19B38C" href="https://rhitabrat.github.io/post2.html">Availability of Data in Nepal</a></li>
 </ul>
 <hr/>
 
