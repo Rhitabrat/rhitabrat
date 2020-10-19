@@ -1,4 +1,4 @@
-<div align ="center"><img src="assets/images/profile.svg"></div>
+<div align ="center"><img src="assets/images/icon.svg"></div>
 <h1 align="center">Hi! 👋 Thanks for visiting 🤗 </h1>
 
 
