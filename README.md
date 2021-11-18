@@ -22,7 +22,7 @@
 <hr />
 
 - 👨‍💻 Always searching for new problems to work on.
-- 🪑 I’m currently working as a Python Developer and Content Editor at <a style="color:#19B38C" href="https://www.programiz.com/" target="_blank">Programiz</a>.
+- 🪑 I’m currently a PhD student at <a style="color:#19B38C" href="https://www.pdx.edu/" target="_blank">Portland State University</a>.
 - ⚽️ Neymar and Ronaldinho
 - 🌏 Find more about me at <a style="color:#19B38C" href="https://rhitabrat.github.io/"> rhitabrat.github.io</a>.
 
